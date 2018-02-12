@@ -4,8 +4,12 @@ body {
   text-align: center;
 }
 
-.frogify {
+@font-face {
   font-family: 'Gotham Light';
   src: url('../fonts/gothamlight.otf');
+}
+
+.frogify {
+  font-family: 'Gotham Light', serif;
   color: black;
 }
