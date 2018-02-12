@@ -4,11 +4,9 @@ Make sure you install npm/node.
 
 In your root directory, run:
 
-%
-
+```
 npm install
-
-%
+```
 
 To install the latest dependencies.
 
@@ -19,11 +17,9 @@ https://medium.com/front-end-hacking/getting-started-with-your-react-app-with-ex
 
 USAGE:
 
-%
-
+```
 npm run dev
-
-%
+```
 
 This will run the server and build the webpack at the same time. Very useful. Since we are using nodemon, the server restarts automagically whenever changes are made.
 
