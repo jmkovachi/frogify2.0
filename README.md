@@ -1,3 +1,22 @@
+FIRST TIME SET-UP:
+
+Make sure you install npm/node.
+
+In your root directory, run:
+
+%
+
+npm install
+
+%
+
+To install the latest dependencies.
+
+Refer to this Medium post if you need info on the
+processes listed in this README:
+
+https://medium.com/front-end-hacking/getting-started-with-your-react-app-with-express-server-1c701a3c6edb
+
 USAGE:
 
 %
